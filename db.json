@@ -1,0 +1,14 @@
+{
+    "groups": {
+        "users": [{
+                "name": "Test User"
+            },
+            {
+                "name": "John Doe"
+            }
+        ],
+        "administrators": [{
+            "name": "John Doe"
+        }]
+    }
+}
